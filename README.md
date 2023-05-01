@@ -38,7 +38,7 @@ has more than 16 characters, only the first 16 will be considered. The exactly 1
 converted in a 128-bit sequence (**key**) using the ASCII table.  
 
 The **key** is used to encrypt the **plain_text** according to 
-[AES](https://it.wikipedia.org/wiki/Advanced_Encryption_Standard). 
+[AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard). 
 This will produce a 128-bit sequence (**cipher_text**). This sequence will be converted in a text password of exactly
 16 characters, using only the characters allowed in the set specified.  
 
