@@ -1,9 +1,9 @@
 # PASSWAN
- A Passward Manager Python Apllication
+ A Passward Manager Python Application
 
 ## Installation 
 * Download Python 3 and add it to PATH
-* Place the files "swan.py" and "Swan.ico" in the folder C: \ Users \ ***my_user_name*** 
+* Place the files "swan.py" and "Swan.ico" in the folder C:\Users\\***my_user_name*** 
 
 ## Run
 * Press **Windows** + **R**
@@ -14,8 +14,8 @@
 * Press **Enter**
 
 ## Use
-* Add your accounts information at the top of the file "swan.py", following the example given  
-* The accounts order of appearence in the file "swan.py" will be the same displayed in the application  
+* Add your account information at the top of the file "swan.py", following the example given in "swan.py"  
+* The order in which the accounts appear in the file "swan.py" will be the same displayed in the application  
 * The field "password_id" is the unique password identifier, ranging from "000" to "999"  
 * The field "version" is useful for changing the password, it can be any character  
 * The field "character_list" can be set to **NUM**, **BASIC**, **PAYPAL**, **FULL** in order to specify different 
